@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PizzaNCoding88
 - 👀 I’m interested in Pizza & Coding
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
 
 <!---
 PizzaNCoding88/PizzaNCoding88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
